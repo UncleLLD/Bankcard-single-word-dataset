@@ -14,4 +14,5 @@
     * 8：108
     * 9：70 
 * labels.txt: image_name, label, 中间使用`\t` 进行分隔
-* 样例：![2PLh8.jpeg](https://i.328888.xyz/2023/01/17/2PLh8.jpeg)
+* 样例：
+![2PLh8.jpeg](https://i.328888.xyz/2023/01/17/2PLh8.jpeg)
